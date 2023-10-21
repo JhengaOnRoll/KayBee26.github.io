@@ -5,11 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         
+
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open fancifymytext.html",
-            "file": "c:\\Users\\khush\\OneDrive\\Desktop\\csc 193A\\KayBee26.github.io\\Csc193A\\fancifymytext.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\khush\\OneDrive\\Desktop\\csc 193A\\KayBee26.github.io\\\\index.html"
         }
     ]
 }
